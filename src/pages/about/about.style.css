@@ -1,0 +1,21 @@
+.about {
+    background-color: rgb(75, 66, 58);
+    font-size: 1.1em;
+  }
+  
+  .image {
+    max-width: 24em;
+    background-color: transparent;
+  }
+  
+  .my-details {
+    background-color: rgba(184, 150, 150, 0.747);
+  }
+
+  .font-details {
+      font-size: 2.5em;
+      font-weight: 400;
+      color: #38927cf8;
+  }
+
+  
