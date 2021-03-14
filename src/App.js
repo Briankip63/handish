@@ -2,14 +2,19 @@ import React from 'react';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from './components/Navbar';
-import Header from "./components/Header";
+
+import MyCarousel from './components/Carousel/MyCarousel';
+import TitleMessage from './components/title-message/title-message.component';
+
+
 
 
 function App() {
   return (
     <>
       <Navbar />
-      <Header />
+      <MyCarousel /> 
+     <TitleMessage />
     </>
   );
 }

@@ -1,0 +1,12 @@
+.custom-img {
+    height: 90vh;
+    object-fit: cover;
+  }
+
+  @media(max-width: 768px) {
+    .home {
+      height: 100vh;
+      object-fit: cover;
+    }
+    
+  }
