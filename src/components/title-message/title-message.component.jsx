@@ -13,7 +13,7 @@ const MyTitleMessage = styled.h1`
   margin-top: -125px;
   text-align: center;
   strong {
-    font-size: 1.25em;
+    font-size: 0.80em;
   }
   div {
     color: ${props => props.theme.textColor};

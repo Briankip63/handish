@@ -117,3 +117,10 @@ nav ul li {
   color: black;
   transition: .2s ease-in-out;
 }
+
+.container-box {
+  width: 100%;
+  background-color: transparent;
+  position: relative;
+  z-index: 9;
+}

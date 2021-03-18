@@ -1,6 +1,7 @@
 .about {
-    background-color: rgb(75, 66, 58);
+    background-color: rgb(66, 64, 62);
     font-size: 1.1em;
+   
   }
   
   .image {
@@ -9,7 +10,7 @@
   }
   
   .my-details {
-    background-color: rgba(184, 150, 150, 0.747);
+    background-color: rgba(153, 134, 113, 0.747);
   }
 
   .font-details {
