@@ -1,0 +1,27 @@
+.img-resize {
+    width: 10em;
+  }
+  
+  .style {
+    font-size: 16px;
+  }
+  
+  .jumbo-style {
+    background-color: linear-gradient(-225deg, #2cd8d5 0%, #6b8dd6 48%, #8e37d7 100%);
+  }
+  
+  .body-title-style {
+    font-size: 18px;
+    font-weight: 800;
+ 
+  }
+
+  .font-details {
+    font-size: 25px;
+    font-weight: 500;
+    color: #3C403D; 
+  }
+
+  .card-text {
+    font-size: 16px;
+  }

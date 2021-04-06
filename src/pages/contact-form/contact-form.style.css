@@ -1,0 +1,32 @@
+  
+.contact {
+
+    background: url("../../assets/img/contact.jpg") no-repeat;
+    background-size: cover;
+    justify-content: center;
+   
+   
+}
+.buttons {
+    padding-left:40px;
+    padding-right: 40px;
+    justify-content: space-between;
+}
+
+
+
+
+@media(max-width: 768px) {
+    .main-info h1 {
+      font-size: 1.7rem !important;
+    }
+    .typed-text {
+      font-size: 1.3rem !important;
+    }
+  }
+  
+@media(max-width: 768px) {
+    .particles-canvas {
+      display: none;
+    }
+  }

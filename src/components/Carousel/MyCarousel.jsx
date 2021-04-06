@@ -11,7 +11,9 @@ import ScrollDown from "../scroll-down/scroll-down.component";
 const MyCarousel = () => {
     return (
         
-        <div id="home">
+        <div className="home">
+            <div id="home">
+         
             <CssBaseline />
            <Carousel controls={false} indicators interval={4500} pause={false}>
             <Carousel.Item>
@@ -39,6 +41,8 @@ const MyCarousel = () => {
             </Carousel.Item>
             </Carousel> 
             <ScrollDown />
+            
+        </div>
         </div>
     );
 }

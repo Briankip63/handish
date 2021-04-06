@@ -12,8 +12,8 @@
   }
 
   .services {
-    background-color: rgb(66, 64, 62);
-    font-size: 1.1em;
+   background-color: rgba(179, 177, 172, 0.9);
+    font-size: 15px;
     
     
   }
@@ -25,7 +25,7 @@
   .font-details {
     font-size: 3em;
     font-weight: 500;
-    color: #28c8cef8;
+    color: #fff;
   }
   
   .font-details-b {
